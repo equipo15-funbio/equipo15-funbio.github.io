@@ -8,7 +8,7 @@ layout: miembros
 *Aleman Ramírez Harold Alonso*
 ><div style="text-align: justify"> La persona encargada de diseñar y modelar las piezas de la propuesta.</div>
 
-![Alt text](/miembros/daniela.jpg){:height="140px" width="140px"}
+![Alt text](/miembros/danielaF.jpg){:height="140px" width="140px"}
 
 *Ferrero Daniela*
 ><div style="text-align: justify">Entre sus tareas esta el estado del arte y soluciones existentes</div>
