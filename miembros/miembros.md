@@ -3,19 +3,17 @@ layout: miembros
 ---
 # Miembros del Equipo
 
-### Diseñador
 ![Alt text](/miembros/disenador.jpg){:height="140px" width="140px"}
 
-*Alumno 2*
+*Aleman Ramírez Harold Alonso*
 ><div style="text-align: justify"> La persona encargada de diseñar y modelar las piezas de la propuesta.</div>
 
-### Investigador
 ![Alt text](/miembros/investigador.jpg){:height="140px" width="140px"}
 
-*Alumno 3*
+**
 ><div style="text-align: justify">Entre sus tareas esta el estado del arte y soluciones existentes</div>
 
-### Desarrollador
+### Desarr
 ![Alt text](/miembros/desarrollador.jpg){:height="140px" width="140px"}
 
 *Alumno 1*
