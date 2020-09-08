@@ -15,5 +15,5 @@ layout: miembros
 
 ![Alt text](/miembros/camila.jpg){:height="300px" width="300px"}
 
-*Camila*
+*Cespedes Trece Sofia Camila*
 ><div style="text-align: justify"> Actualmente soy estudiante de segundo año de la carrera de Ingeniería Biomédica. El rol que desempeñaré en este equipo será el de investigador del caso clínico. Esto incluye la investigación del contexto social y económico de la situación propuesta, así como el estado de arte ante las existentes soluciones al problema. Me considero una persona creativa, líder y perseverante, cualidades que considero que contribuirán con el desarrollo de este proyecto. Mis planes a futuro son poder mejorar el sistema de salud actual y crear tecnologías que puedan ser de beneficio para muchos, y realizarlo a través de la especialización de Biomecánica y Rehabilitación.</div>
