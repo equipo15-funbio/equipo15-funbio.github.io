@@ -4,7 +4,6 @@ layout: default
 <div class="blurb">
 
   <h1 align="justify">Entregables Semanales</h1>
-  ![Alt text](/entregables/muerte.jpg){:height="500px" width="600px"}
   
   <h3><a href="https://equipo20-fundbio.github.io/entregables/entregable1.html"> Semana 1  | Creacion de pagina web y asignacion de roles</a></h3>
   <p><strong>Entregable</strong></p>
